@@ -4,7 +4,7 @@
         <description><![CDATA[Ted Regklis]]></description>
         <link>https://thegrid.ai/tedregklis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 19:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 19:43:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tedregklis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About | Contact]]></title>
@@ -26,13 +26,6 @@
             <link>https://vimeo.com/album/3407628/video/38180126</link>
             <guid isPermaLink="false">637796aa-784b-4364-ac27-88f6c72f1c4b</guid>
             <pubDate>Wed, 21 Oct 2015 19:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/tedregklis/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">bb378d1d-69d6-4883-ab2f-c1191ab9c5b0</guid>
-            <pubDate>Wed, 21 Oct 2015 18:33:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
