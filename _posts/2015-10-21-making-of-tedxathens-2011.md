@@ -18,10 +18,10 @@ author:
           - 75
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - apostolos
   - nikolaidis
@@ -42,13 +42,15 @@ app_links:
     app_name: Vimeo
 isBasedOnUrl: 'https://vimeo.com/album/3407628/video/38180126'
 title: 'Making of "TEDxAthens 2011"'
-datePublished: '2015-10-21T18:37:24.083Z'
-dateModified: '2015-10-21T18:36:52.504Z'
+datePublished: '2015-10-21T19:42:00.179Z'
+dateModified: '2015-10-21T19:41:53.852Z'
 sourcePath: _posts/2015-10-21-making-of-tedxathens-2011.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
