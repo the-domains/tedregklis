@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/tedregklis/sets/17-kicks-to-go'
+inLanguage: null
+starred: false
+keywords: []
+description: In this playlist you can listen to some of my previous work.
+datePublished: '2015-10-22T15:42:28.786Z'
+dateModified: '2015-10-22T15:42:23.907Z'
 author:
   - name: Ted Regklis
     url: 'http://soundcloud.com/tedregklis'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: In this playlist you can listen to some of my previous work.
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,15 +25,15 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://playlists:218341'
     type: android
-isBasedOnUrl: 'https://soundcloud.com/tedregklis/sets/17-kicks-to-go'
 title: "Ted Regklis' Music by Ted Regklis"
-datePublished: '2015-10-22T15:41:23.285Z'
-dateModified: '2015-10-22T15:40:37.018Z'
 sourcePath: _posts/2015-10-22-ted-regklis-music-by-ted-regklis.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
