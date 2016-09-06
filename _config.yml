@@ -1,20 +1,4 @@
-name: TedRegklis
-favicon: null
-layout_spectrum: 0.15172
 typography_spectrum: 0.66668
-title: Ted Regklis
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#efefef'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0.9375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.15172
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TedRegklis
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ted Regklis
 purpose: []
